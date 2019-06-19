@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SpiderLib" targetName="SpiderLib" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="382a46a0-f893-444f-86ba-073742de3277" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Header_Files/LinkedList.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="217" column="13" lean-forward="true" selection-start-line="217" selection-start-column="13" selection-end-line="217" selection-end-column="13" />
+              <folding>
+                <element signature="e#2301#3334#0" />
+                <element signature="e#3347#4352#0" />
+                <element signature="e#4365#4748#0" />
+                <element signature="e#4761#6790#0" />
+                <element signature="e#6803#6934#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Data_Structures/Linked_List/LinkedList.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Header_Files/LinkedList.h" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="531" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpiderLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpiderLib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpiderLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpiderLib" type="462c0819:PsiDirectoryNode" />
+              <item name="Header_Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpiderLibTest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Cpp_dlls\SpiderLib\Header_Files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpiderLib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SpiderLib" TARGET_NAME="SpiderLib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="382a46a0-f893-444f-86ba-073742de3277" name="Default Changelist" comment="" />
+      <created>1560976439869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560976439869</updated>
+      <workItem from="1560976442036" duration="532000" />
+      <workItem from="1560978004028" duration="188000" />
+      <workItem from="1560978258744" duration="22000" />
+      <workItem from="1560978313238" duration="62000" />
+      <workItem from="1560978397016" duration="31000" />
+      <workItem from="1560978464243" duration="166000" />
+      <workItem from="1560978736998" duration="55000" />
+      <workItem from="1560978817992" duration="51000" />
+      <workItem from="1560978897468" duration="123000" />
+      <workItem from="1560979046506" duration="47000" />
+      <workItem from="1560979123495" duration="260000" />
+      <workItem from="1560979431498" duration="87000" />
+      <workItem from="1560979558910" duration="45000" />
+      <workItem from="1560979693747" duration="81000" />
+      <workItem from="1560979823345" duration="160000" />
+      <workItem from="1560980022926" duration="47000" />
+      <workItem from="1560980090316" duration="13000" />
+      <workItem from="1560980128170" duration="56000" />
+      <workItem from="1560980204828" duration="100000" />
+      <workItem from="1560980340452" duration="65000" />
+      <workItem from="1560980434644" duration="184000" />
+      <workItem from="1560980653359" duration="27000" />
+      <workItem from="1560980696369" duration="25000" />
+      <workItem from="1560980744193" duration="80000" />
+      <workItem from="1560980839347" duration="25000" />
+      <workItem from="1560980881139" duration="22000" />
+      <workItem from="1560980919235" duration="22000" />
+      <workItem from="1560981050255" duration="24000" />
+      <workItem from="1560981088644" duration="21000" />
+      <workItem from="1560981182143" duration="46000" />
+      <workItem from="1560981397759" duration="58000" />
+      <workItem from="1560981479218" duration="139000" />
+      <workItem from="1560981666718" duration="109000" />
+      <workItem from="1560981821510" duration="37000" />
+      <workItem from="1560981888299" duration="130000" />
+      <workItem from="1560982040052" duration="44000" />
+      <workItem from="1560982128438" duration="40000" />
+      <workItem from="1560982212253" duration="111000" />
+      <workItem from="1560982356217" duration="24000" />
+      <workItem from="1560982392706" duration="46000" />
+      <workItem from="1560982454589" duration="69000" />
+      <workItem from="1560982546446" duration="47000" />
+      <workItem from="1560982605369" duration="23000" />
+      <workItem from="1560982651625" duration="31000" />
+      <workItem from="1560982699719" duration="46000" />
+      <workItem from="1560982765950" duration="15000" />
+      <workItem from="1560982803612" duration="76000" />
+      <workItem from="1560983113860" duration="46000" />
+      <workItem from="1560983204446" duration="93000" />
+      <workItem from="1560983311887" duration="79000" />
+      <workItem from="1560983424182" duration="7000" />
+      <workItem from="1560983469706" duration="99000" />
+      <workItem from="1560983598644" duration="35000" />
+      <workItem from="1560983655748" duration="60000" />
+      <workItem from="1560983739423" duration="18000" />
+      <workItem from="1560983772303" duration="206000" />
+      <workItem from="1560984000048" duration="61000" />
+      <workItem from="1560984082218" duration="17000" />
+      <workItem from="1560984120618" duration="128000" />
+      <workItem from="1560984263445" duration="157000" />
+      <workItem from="1560984436947" duration="19000" />
+      <workItem from="1560984472198" duration="263000" />
+      <workItem from="1560984754536" duration="38000" />
+      <workItem from="1560984863906" duration="58000" />
+      <workItem from="1560984935471" duration="30000" />
+      <workItem from="1560984978594" duration="71000" />
+      <workItem from="1560985066941" duration="23000" />
+      <workItem from="1560985109792" duration="223000" />
+      <workItem from="1560985348955" duration="66000" />
+      <workItem from="1560985434348" duration="51000" />
+      <workItem from="1560985506345" duration="49000" />
+      <workItem from="1560985599087" duration="91000" />
+      <workItem from="1560985710652" duration="38000" />
+      <workItem from="1560985797253" duration="50000" />
+      <workItem from="1560985904629" duration="44000" />
+      <workItem from="1560985970596" duration="16000" />
+      <workItem from="1560986062340" duration="66000" />
+      <workItem from="1560986139738" duration="17000" />
+      <workItem from="1560986186948" duration="47000" />
+      <workItem from="1560986249296" duration="17000" />
+      <workItem from="1560986276650" duration="13000" />
+      <workItem from="1560986302016" duration="167000" />
+      <workItem from="1560986562590" duration="61000" />
+      <workItem from="1560986687589" duration="70000" />
+      <workItem from="1560986794521" duration="212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6518000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41862348" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info active="true" anchor="bottom" id="Messages" order="8" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/library.cpp" />
+    <entry file="file://$PROJECT_DIR$/library.h" />
+    <entry file="file://$PROJECT_DIR$/Data_Structures/Linked_List/LinkedList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header_Files/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="217" column="13" lean-forward="true" selection-start-line="217" selection-start-column="13" selection-end-line="217" selection-end-column="13" />
+          <folding>
+            <element signature="e#2301#3334#0" />
+            <element signature="e#3347#4352#0" />
+            <element signature="e#4365#4748#0" />
+            <element signature="e#4761#6790#0" />
+            <element signature="e#6803#6934#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
