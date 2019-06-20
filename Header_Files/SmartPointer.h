@@ -1,5 +1,5 @@
 #include <iostream>
-namespace SpiderLib::SmartPointer
+namespace SpiderLib::Utilities
 {
     #ifndef SPIDERLIB_SMARTPOINTER_H
     #define SPIDERLIB_SMARTPOINTER_H

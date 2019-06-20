@@ -4,6 +4,9 @@
 CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.obj: ../Data_Structures/Linked_List/LinkedList.cpp
 CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.obj: ../Header_Files/LinkedList.h
 
+CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.obj: ../Header_Files/Clock.h
+CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.obj: ../Utilities/Clock.cpp
+
 CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj: ../Header_Files/SmartPointer.h
 CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj: ../Utilities/SmartPointer.cpp
 

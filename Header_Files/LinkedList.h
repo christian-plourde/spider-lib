@@ -1,5 +1,5 @@
 #include <iostream>
-namespace SpiderLib::LinkedList
+namespace SpiderLib::DataStructures
 {
     #ifndef DATA_STRUCTURES_LIBRARY_H
     #define DATA_STRUCTURES_LIBRARY_H

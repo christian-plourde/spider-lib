@@ -57,6 +57,7 @@ include CMakeFiles/SpiderLib.dir/progress.make
 include CMakeFiles/SpiderLib.dir/flags.make
 
 CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.obj: CMakeFiles/SpiderLib.dir/flags.make
+CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.obj: CMakeFiles/SpiderLib.dir/includes_CXX.rsp
 CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.obj: ../Data_Structures/Linked_List/LinkedList.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Cpp_dlls\SpiderLib\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpiderLib.dir\Data_Structures\Linked_List\LinkedList.cpp.obj -c D:\Cpp_dlls\SpiderLib\Data_Structures\Linked_List\LinkedList.cpp
@@ -70,6 +71,7 @@ CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.s: cmake_for
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Cpp_dlls\SpiderLib\Data_Structures\Linked_List\LinkedList.cpp -o CMakeFiles\SpiderLib.dir\Data_Structures\Linked_List\LinkedList.cpp.s
 
 CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj: CMakeFiles/SpiderLib.dir/flags.make
+CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj: CMakeFiles/SpiderLib.dir/includes_CXX.rsp
 CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj: ../Utilities/SmartPointer.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Cpp_dlls\SpiderLib\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpiderLib.dir\Utilities\SmartPointer.cpp.obj -c D:\Cpp_dlls\SpiderLib\Utilities\SmartPointer.cpp
@@ -82,21 +84,37 @@ CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Cpp_dlls\SpiderLib\Utilities\SmartPointer.cpp -o CMakeFiles\SpiderLib.dir\Utilities\SmartPointer.cpp.s
 
+CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.obj: CMakeFiles/SpiderLib.dir/flags.make
+CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.obj: CMakeFiles/SpiderLib.dir/includes_CXX.rsp
+CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.obj: ../Utilities/Clock.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Cpp_dlls\SpiderLib\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpiderLib.dir\Utilities\Clock.cpp.obj -c D:\Cpp_dlls\SpiderLib\Utilities\Clock.cpp
+
+CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Cpp_dlls\SpiderLib\Utilities\Clock.cpp > CMakeFiles\SpiderLib.dir\Utilities\Clock.cpp.i
+
+CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Cpp_dlls\SpiderLib\Utilities\Clock.cpp -o CMakeFiles\SpiderLib.dir\Utilities\Clock.cpp.s
+
 # Object files for target SpiderLib
 SpiderLib_OBJECTS = \
 "CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.obj" \
-"CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj"
+"CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj" \
+"CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.obj"
 
 # External object files for target SpiderLib
 SpiderLib_EXTERNAL_OBJECTS =
 
 libSpiderLib.dll: CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.obj
 libSpiderLib.dll: CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj
+libSpiderLib.dll: CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.obj
 libSpiderLib.dll: CMakeFiles/SpiderLib.dir/build.make
 libSpiderLib.dll: CMakeFiles/SpiderLib.dir/linklibs.rsp
 libSpiderLib.dll: CMakeFiles/SpiderLib.dir/objects1.rsp
 libSpiderLib.dll: CMakeFiles/SpiderLib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Cpp_dlls\SpiderLib\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX shared library libSpiderLib.dll"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Cpp_dlls\SpiderLib\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX shared library libSpiderLib.dll"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SpiderLib.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

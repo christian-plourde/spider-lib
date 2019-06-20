@@ -14,6 +14,8 @@
     <list default="true" id="382a46a0-f893-444f-86ba-073742de3277" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Header_Files/LinkedList.h" beforeDir="false" afterPath="$PROJECT_DIR$/Header_Files/LinkedList.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Header_Files/SmartPointer.h" beforeDir="false" afterPath="$PROJECT_DIR$/Header_Files/SmartPointer.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/DependInfo.cmake" afterDir="false" />
@@ -21,6 +23,7 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/linklibs.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpiderLib.dir/objects1.rsp" afterDir="false" />
@@ -47,17 +50,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+            <state relative-caret-position="138">
+              <caret line="6" column="118" selection-start-line="6" selection-start-column="118" selection-end-line="6" selection-end-column="118" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Header_Files/SmartPointer.h">
+        <entry file="file://$PROJECT_DIR$/Utilities/Clock.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="177">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Header_Files/Clock.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,10 +86,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Data_Structures/Linked_List/LinkedList.h" />
-        <option value="$PROJECT_DIR$/Header_Files/LinkedList.h" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Utilities/SmartPointer.cpp" />
         <option value="$PROJECT_DIR$/Header_Files/SmartPointer.h" />
+        <option value="$PROJECT_DIR$/Header_Files/LinkedList.h" />
+        <option value="$PROJECT_DIR$/Header_Files/StopWatch.h" />
+        <option value="$PROJECT_DIR$/Utilities/StopWatch.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Header_Files/Clock.h" />
+        <option value="$PROJECT_DIR$/Utilities/Clock.cpp" />
       </list>
     </option>
   </component>
@@ -91,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,12 +120,13 @@
             <path>
               <item name="SpiderLib" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpiderLib" type="462c0819:PsiDirectoryNode" />
-              <item name="Header_Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,16 +258,42 @@
       <workItem from="1561045694527" duration="1078000" />
       <workItem from="1561046852703" duration="29000" />
       <workItem from="1561046998083" duration="39000" />
+      <workItem from="1561051042224" duration="62000" />
+      <workItem from="1561051295826" duration="1185000" />
+      <workItem from="1561052662361" duration="24000" />
+      <workItem from="1561052803918" duration="71000" />
+      <workItem from="1561052897200" duration="48000" />
+      <workItem from="1561053084351" duration="94000" />
+      <workItem from="1561053208546" duration="144000" />
+      <workItem from="1561053489425" duration="45000" />
+      <workItem from="1561053554180" duration="488000" />
+      <workItem from="1561054102802" duration="39000" />
+      <workItem from="1561054193873" duration="111000" />
+      <workItem from="1561054318954" duration="92000" />
+      <workItem from="1561054439229" duration="57000" />
+      <workItem from="1561054520371" duration="55000" />
+      <workItem from="1561054665540" duration="159000" />
+      <workItem from="1561054877631" duration="7000" />
+      <workItem from="1561054959784" duration="12000" />
+      <workItem from="1561057228037" duration="208000" />
+      <workItem from="1561057624410" duration="824000" />
+      <workItem from="1561058608046" duration="63000" />
+      <workItem from="1561058728521" duration="121000" />
+      <workItem from="1561058870006" duration="26000" />
+      <workItem from="1561058944078" duration="211000" />
+      <workItem from="1561059177648" duration="76000" />
+      <workItem from="1561059292643" duration="155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7664000" />
+    <option name="totallyTimeSpent" value="12041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19838056" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30121458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Header_Files/LinkedList.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1541">
-          <caret line="67" column="21" lean-forward="true" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
+        <state relative-caret-position="23">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
           <folding>
             <element signature="e#2301#3334#0" />
             <element signature="e#3347#4352#0" />
@@ -306,17 +351,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/Header_Files/SmartPointer.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        <state relative-caret-position="23">
+          <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Header_Files/SmartPointer.h">
+    <entry file="file://$PROJECT_DIR$/Utilities/StopWatch.cpp" />
+    <entry file="file://$PROJECT_DIR$/Header_Files/StopWatch.h" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="138">
+          <caret line="6" column="118" selection-start-line="6" selection-start-column="118" selection-end-line="6" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header_Files/Clock.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utilities/Clock.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
         </state>
       </provider>
     </entry>

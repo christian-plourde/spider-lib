@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-D:/Cpp_dlls/SpiderLib/Header_Files/SmartPointer.h
+D:/Cpp_dlls/SpiderLib/Header_Files/Clock.h
 iostream
 -
+chrono
+-
+ctime
+-
 
-D:/Cpp_dlls/SpiderLib/Utilities/SmartPointer.cpp
-../Header_Files/SmartPointer.h
-D:/Cpp_dlls/SpiderLib/Header_Files/SmartPointer.h
+D:/Cpp_dlls/SpiderLib/Utilities/Clock.cpp
+../Header_Files/Clock.h
+D:/Cpp_dlls/SpiderLib/Header_Files/Clock.h
 

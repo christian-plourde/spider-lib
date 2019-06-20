@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++17
 
 CXX_DEFINES = -DSpiderLib_EXPORTS
 
-CXX_INCLUDES = 
+CXX_INCLUDES = @CMakeFiles/SpiderLib.dir/includes_CXX.rsp
 

@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/Cpp_dlls/SpiderLib/Data_Structures/Linked_List/LinkedList.cpp" "D:/Cpp_dlls/SpiderLib/cmake-build-debug/CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.obj"
+  "D:/Cpp_dlls/SpiderLib/Utilities/Clock.cpp" "D:/Cpp_dlls/SpiderLib/cmake-build-debug/CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.obj"
   "D:/Cpp_dlls/SpiderLib/Utilities/SmartPointer.cpp" "D:/Cpp_dlls/SpiderLib/cmake-build-debug/CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
@@ -16,6 +17,8 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../Data_Structures"
+  "../Utilities"
   )
 
 # Targets to which this target links.

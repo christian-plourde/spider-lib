@@ -149,6 +149,33 @@ Data_Structures/Linked_List/LinkedList.cpp.s:
 	$(MAKE) -f CMakeFiles\SpiderLib.dir\build.make CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.s
 .PHONY : Data_Structures/Linked_List/LinkedList.cpp.s
 
+Utilities/Clock.obj: Utilities/Clock.cpp.obj
+
+.PHONY : Utilities/Clock.obj
+
+# target to build an object file
+Utilities/Clock.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpiderLib.dir\build.make CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.obj
+.PHONY : Utilities/Clock.cpp.obj
+
+Utilities/Clock.i: Utilities/Clock.cpp.i
+
+.PHONY : Utilities/Clock.i
+
+# target to preprocess a source file
+Utilities/Clock.cpp.i:
+	$(MAKE) -f CMakeFiles\SpiderLib.dir\build.make CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.i
+.PHONY : Utilities/Clock.cpp.i
+
+Utilities/Clock.s: Utilities/Clock.cpp.s
+
+.PHONY : Utilities/Clock.s
+
+# target to generate assembly for a file
+Utilities/Clock.cpp.s:
+	$(MAKE) -f CMakeFiles\SpiderLib.dir\build.make CMakeFiles/SpiderLib.dir/Utilities/Clock.cpp.s
+.PHONY : Utilities/Clock.cpp.s
+
 Utilities/SmartPointer.obj: Utilities/SmartPointer.cpp.obj
 
 .PHONY : Utilities/SmartPointer.obj
@@ -188,6 +215,9 @@ help:
 	@echo ... Data_Structures/Linked_List/LinkedList.obj
 	@echo ... Data_Structures/Linked_List/LinkedList.i
 	@echo ... Data_Structures/Linked_List/LinkedList.s
+	@echo ... Utilities/Clock.obj
+	@echo ... Utilities/Clock.i
+	@echo ... Utilities/Clock.s
 	@echo ... Utilities/SmartPointer.obj
 	@echo ... Utilities/SmartPointer.i
 	@echo ... Utilities/SmartPointer.s
