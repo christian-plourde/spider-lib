@@ -83,6 +83,9 @@
 		<Unit filename="D:/Cpp_dlls/SpiderLib/Data_Structures/Linked_List/LinkedList.cpp">
 			<Option target="SpiderLib"/>
 		</Unit>
+		<Unit filename="D:/Cpp_dlls/SpiderLib/Utilities/SmartPointer.cpp">
+			<Option target="SpiderLib"/>
+		</Unit>
 		<Unit filename="D:/Cpp_dlls/SpiderLib/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

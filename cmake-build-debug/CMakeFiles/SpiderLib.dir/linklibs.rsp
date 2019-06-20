@@ -1,1 +1,1 @@
- -LD:/Cpp_dlls/SpiderLib/Data_Structures -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ -LD:/Cpp_dlls/SpiderLib/Data_Structures  -LD:/Cpp_dlls/SpiderLib/Utilities -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

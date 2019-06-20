@@ -149,6 +149,33 @@ Data_Structures/Linked_List/LinkedList.cpp.s:
 	$(MAKE) -f CMakeFiles\SpiderLib.dir\build.make CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.s
 .PHONY : Data_Structures/Linked_List/LinkedList.cpp.s
 
+Utilities/SmartPointer.obj: Utilities/SmartPointer.cpp.obj
+
+.PHONY : Utilities/SmartPointer.obj
+
+# target to build an object file
+Utilities/SmartPointer.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpiderLib.dir\build.make CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj
+.PHONY : Utilities/SmartPointer.cpp.obj
+
+Utilities/SmartPointer.i: Utilities/SmartPointer.cpp.i
+
+.PHONY : Utilities/SmartPointer.i
+
+# target to preprocess a source file
+Utilities/SmartPointer.cpp.i:
+	$(MAKE) -f CMakeFiles\SpiderLib.dir\build.make CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.i
+.PHONY : Utilities/SmartPointer.cpp.i
+
+Utilities/SmartPointer.s: Utilities/SmartPointer.cpp.s
+
+.PHONY : Utilities/SmartPointer.s
+
+# target to generate assembly for a file
+Utilities/SmartPointer.cpp.s:
+	$(MAKE) -f CMakeFiles\SpiderLib.dir\build.make CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.s
+.PHONY : Utilities/SmartPointer.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,6 +188,9 @@ help:
 	@echo ... Data_Structures/Linked_List/LinkedList.obj
 	@echo ... Data_Structures/Linked_List/LinkedList.i
 	@echo ... Data_Structures/Linked_List/LinkedList.s
+	@echo ... Utilities/SmartPointer.obj
+	@echo ... Utilities/SmartPointer.i
+	@echo ... Utilities/SmartPointer.s
 .PHONY : help
 
 

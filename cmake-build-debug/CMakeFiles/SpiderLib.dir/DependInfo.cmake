@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/Cpp_dlls/SpiderLib/Data_Structures/Linked_List/LinkedList.cpp" "D:/Cpp_dlls/SpiderLib/cmake-build-debug/CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.obj"
+  "D:/Cpp_dlls/SpiderLib/Utilities/SmartPointer.cpp" "D:/Cpp_dlls/SpiderLib/cmake-build-debug/CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

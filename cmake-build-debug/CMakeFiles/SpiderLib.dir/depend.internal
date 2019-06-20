@@ -4,3 +4,6 @@
 CMakeFiles/SpiderLib.dir/Data_Structures/Linked_List/LinkedList.cpp.obj
  D:/Cpp_dlls/SpiderLib/Data_Structures/Linked_List/LinkedList.cpp
  D:/Cpp_dlls/SpiderLib/Header_Files/LinkedList.h
+CMakeFiles/SpiderLib.dir/Utilities/SmartPointer.cpp.obj
+ D:/Cpp_dlls/SpiderLib/Header_Files/SmartPointer.h
+ D:/Cpp_dlls/SpiderLib/Utilities/SmartPointer.cpp
